@@ -61,12 +61,11 @@ export default function Home() {
           <div className="container hero-intro">
             <p className="hero-kicker rise">{company.place}</p>
             <h1>
-              <span className="rise">Let’s build the</span>
-              <span className="rise">next project</span>
-              <span className="rise">
-                <em>together.</em>
-              </span>
+              <span className="rise">Intercity</span>
+              <span className="rise">Development</span>
+              <span className="rise">Projects LLC</span>
             </h1>
+            <p className="hero-tag rise">Let’s build the next project together.</p>
             <p className="hero-lede rise">
               Earthworks, excavation, concrete, pipelines and the crews to keep a live site moving.
             </p>
